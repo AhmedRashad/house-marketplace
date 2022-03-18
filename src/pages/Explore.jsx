@@ -10,7 +10,7 @@ function Explore() {
       </header>
       <main>
         <Slider />
-        <p className="exploreCategoryHeading">Catefories</p>
+        <p className="exploreCategoryHeading">Categories</p>
         <div className="exploreCategories">
           <Link to="/category/rent">
             <img
